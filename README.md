@@ -17,3 +17,14 @@ Crea una aplicacion nueva en flutter que muestre solo un texto.
   * child: ListTile
     * Title: "aaa"
     * Subtitle: "aaa"
+
+
+# crear modelo usando un json
+
+https://javiercbk.github.io/json_to_dart/
+
+# conectar web service
+
+## instalar libreria 
+
+https://pub.dev/packages/http/example
