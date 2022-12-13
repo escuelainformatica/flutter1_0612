@@ -7,7 +7,7 @@ class Producto {
   int? descuento;
   String? unidad;
   int? stock;
-  Null? imagen;
+  String? imagen;
   int? categoriaId;
   String? createdAt;
   String? updatedAt;

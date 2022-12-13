@@ -1,7 +1,7 @@
 class Categoria {
   int? id;
   String? nombre;
-  Null? icono;
+  String? icono;
   String? createdAt;
   String? updatedAt;
 

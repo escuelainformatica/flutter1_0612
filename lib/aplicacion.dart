@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter11/pagina1.dart';
+import 'package:flutter11/paginalogin.dart';
 
 class Aplicacion extends StatelessWidget {
   @override
@@ -7,7 +8,7 @@ class Aplicacion extends StatelessWidget {
 
     return MaterialApp(
       title: "hola mundo2222",
-      home: Pagina1(),
+      home: PaginaLogin(),
     );
   }
 

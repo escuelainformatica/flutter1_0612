@@ -29,6 +29,9 @@ class _Pagina1Estado extends State<Pagina1> {
       body: ListView.builder(
           itemCount: productos.length,
           itemBuilder: (contexto, fila) {
+              if(fila==1) {
+                return FilaTarjeta();
+              }
               Producto prod=productos[fila];
               return FilaProducto(prod);
         }),
