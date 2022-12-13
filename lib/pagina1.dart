@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter11/fila.dart';
+import 'package:flutter11/widgetsfila/filatarjeta.dart';
 
 class Pagina1 extends StatelessWidget {
   @override
@@ -10,8 +11,8 @@ class Pagina1 extends StatelessWidget {
         children: [
           Fila("uno"),
           Fila("dos"),
-          Text("hola mundo"),
-          Text("hola mundo"),
+          FilaTarjeta(),
+          FilaTarjeta(),
         ],
       ),
     );

@@ -1,16 +1,19 @@
 # flutter11
 
-A new Flutter project.
+* crear una funcion (inicial)  
+* crear una aplicacion (aplicacion) stateless widget
+  * esta aplicacion debe dibujar un MaterialApp
+    * Dentro de MaterialApp, en el argumento home, dibuje la pagina
+* crear una pagina (pagina1) stateless widget
+  * Esta pagina debe dibujar un Scaffold
+    * Dentro del Scaffold, en el argumento body, dibuje el contenido
 
-## Getting Started
+Crea una aplicacion nueva en flutter que muestre solo un texto.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+* Crea un widget con estado:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* Card
+  * child: ListTile
+    * Title: "aaa"
+    * Subtitle: "aaa"
