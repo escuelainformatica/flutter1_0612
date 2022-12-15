@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter11/pagina1.dart';
-import 'package:flutter11/paginalogin.dart';
+import 'package:flutter11/pagina/pagina1.dart';
+import 'package:flutter11/pagina/paginalogin.dart';
 
 class Aplicacion extends StatelessWidget {
   @override

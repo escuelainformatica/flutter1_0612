@@ -4,7 +4,7 @@ import 'package:flutter11/servicio/producto_rest.dart';
 import 'package:flutter11/widgetsfila/fila_producto.dart';
 import 'package:flutter11/widgetsfila/filatarjeta.dart';
 
-import 'modelos/producto.dart';
+import '../modelos/producto.dart';
 
 class Pagina1 extends StatefulWidget {
   @override
